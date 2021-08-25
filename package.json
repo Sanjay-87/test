@@ -1,0 +1,25 @@
+{
+  "name": "test-demo",
+  "version": "1.0.0",
+  "description": "common components",
+  "main": "index.js",
+  "dependencies": {
+    "@babel/runtime": "7.0.0-beta.55",
+    "@material-ui/core": "^1.0.0-rc.0",
+    "@material-ui/icons": "^1.0.0-rc.0",
+    "lodash": "^4.17.21",
+    "material-ui": "next",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-native": "^0.63.4",
+    "react-native-paper": "4.9.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "resolutions": {
+    "material-ui/@babel/runtime": "7.0.0-beta.42"
+  },
+  "author": "",
+  "license": "ISC"
+}

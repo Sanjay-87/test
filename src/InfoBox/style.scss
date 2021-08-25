@@ -1,0 +1,23 @@
+.alert-status-info {
+  display: flex;
+  align-items: flex-start;
+  padding: 15px 15px 20px 15px;
+  border: 1px solid #fff5f6;
+  border-radius: 4px;
+  background-color: var(--highlight);
+
+  img {
+    width: 14px;
+    margin-right: 10px;
+  }
+
+  .text {
+    color: #160d2e;
+    font-size: 14px;
+
+    .title {
+      font-weight: 700;
+      margin: -2px 0 0 0;
+    }
+  }
+}
